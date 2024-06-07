@@ -1,6 +1,6 @@
 # ACIZ
 
-![Logo de la aplicación](imagen/cap.png)
+![Logo de la aplicación](Imagen/cap.png)
 
 ## Descripción
 
